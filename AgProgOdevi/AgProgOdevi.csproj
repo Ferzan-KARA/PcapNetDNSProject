@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="PcapDotNet.Base">
+      <HintPath>..\..\..\..\OneDrive\Masaüstü\Üniversite\Ağ Programlama\Pcap.Net-master\PcapDotNet.Binaries.1.0.4\PcapDotNet.Binaries.1.0.4.x64\PcapDotNet.Base.dll</HintPath>
+    </Reference>
+    <Reference Include="PcapDotNet.Core">
+      <HintPath>..\..\..\..\OneDrive\Masaüstü\Üniversite\Ağ Programlama\Pcap.Net-master\PcapDotNet.Binaries.1.0.4\PcapDotNet.Binaries.1.0.4.x64\PcapDotNet.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="PcapDotNet.Core.Extensions">
+      <HintPath>..\..\..\..\OneDrive\Masaüstü\Üniversite\Ağ Programlama\Pcap.Net-master\PcapDotNet.Binaries.1.0.4\PcapDotNet.Binaries.1.0.4.x64\PcapDotNet.Core.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="PcapDotNet.Packets">
+      <HintPath>..\..\..\..\OneDrive\Masaüstü\Üniversite\Ağ Programlama\Pcap.Net-master\PcapDotNet.Binaries.1.0.4\PcapDotNet.Binaries.1.0.4.x64\PcapDotNet.Packets.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
